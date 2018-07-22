@@ -1,0 +1,712 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+http://bit.ly/TestadorIPTVVideoApresentacao
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Puebla TV
+http://189.203.247.136:1935/live/pueblatv/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", AZTECA NOTICIAS
+http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/index_3_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Puebla TV
+http://189.203.247.136:1935/live/pueblatv/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RCG
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", aztecalive
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RCG TV
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", YUCATAN
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", rytqrolive
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TVMAS HD
+http://50.7.98.234:1935/rtv/videortv//playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA-BASKET UNI.(Arizona)
+http://xrxs.net/video/live-p12ariz-1164.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA-BASKET UNI.(Los Angeles)
+http://xrxs.net/video/live-p12losa-1164.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA-BASKET UNI.(Moutain)
+http://xrxs.net/video/live-p12moun-1164.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA-BASKET UNI.(Oregon)
+http://xrxs.net/video/live-p12oreg-1164.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA-BASKET UNI.(Washington)
+http://xrxs.net/video/live-p12wash-2328.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Azteca 7
+http://latino-webtv.ml/rvdurlst/13433/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MC
+http://latino-webtv.ml/rvdurlst/13434/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Ingenio TV
+http://latino-webtv.ml/rvdurlst/13435/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TVC
+http://latino-webtv.ml/rvdurlst/13436/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Foro TV
+http://latino-webtv.ml/rvdurlst/13437/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Teleformula
+http://latino-webtv.ml/rvdurlst/13438/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 22 Mexico
+http://latino-webtv.ml/rvdurlst/13439/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Televisa Canal 5
+http://latino-webtv.ml/rvdurlst/5509/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Las Estrellas
+http://latino-webtv.ml/rvdurlst/13336/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Estrella TV
+http://latino-webtv.ml/rvdurlst/12133/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Univision HD
+http://latino-webtv.ml/rvdurlst/13216/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", UniMAS HD
+http://latino-webtv.ml/rvdurlst/13217/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Mega TV
+http://latino-webtv.ml/rvdurlst/13376/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NBC Universo HD
+http://latino-webtv.ml/rvdurlst/4825/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", AZ Corazon
+http://latino-webtv.ml/rvdurlst/13101/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Tlnovelas America
+http://latino-webtv.ml/rvdurlst/1461/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RCN Novelas
+http://lb.iptvserver.tv:8080/redirect/LiveEdge/RCNnovelasLA/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Telemundo Internacional
+http://lb.iptvserver.tv:8080/redirect/LiveEdge/TelemundoSD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Telemundo
+http://latino-webtv.ml/rvdurlst/10963/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Galicia TV
+http://latino-webtv.ml/rvdurlst/1499/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TV Chile
+http://latino-webtv.ml/rvdurlst/13506/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Caracol Internacional
+http://latino-webtv.ml/rvdurlst/2051/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Discovery en EspaÃƒÆ’Ã‚Â±ol
+http://latino-webtv.ml/rvdurlst/3531/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Discovery Theater HD
+http://latino-webtv.ml/rvdurlst/3798/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Discovery World HD
+http://latino-webtv.ml/rvdurlst/3529/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Discovery Home & Health Latinoamerica
+http://latino-webtv.ml/rvdurlst/252/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", H2 Latinoamerica
+http://latino-webtv.ml/rvdurlst/297/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", History en EspaÃƒÆ’Ã‚Â±ol
+http://latino-webtv.ml/rvdurlst/3704/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", National Geographic Latinoamerica
+http://latino-webtv.ml/rvdurlst/395/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Nat Geo Wild Latino America
+http://latino-webtv.ml/rvdurlst/254/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Animal Planet Latinoamerica
+http://latino-webtv.ml/rvdurlst/441/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ESPN Latinoamerica
+http://latino-webtv.ml/rvdurlst/2487/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ESPN 2 Latinoamerica
+http://latino-webtv.ml/rvdurlst/301/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ESPN 3 Latinoamerica
+http://latino-webtv.ml/rvdurlst/3806/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fox Sports Latinoamerica
+http://latino-webtv.ml/rvdurlst/2505/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fox Sports 2 Latinoamerica
+http://latino-webtv.ml/rvdurlst/475/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fox Sports 3 Latinoamerica
+http://latino-webtv.ml/rvdurlst/445/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", F1 Latinoamerica
+http://latino-webtv.ml/rvdurlst/1695/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", UFC Network Latinoamerica HD
+http://latino-webtv.ml/rvdurlst/13726/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Bein Sports en EspaÃƒÆ’Ã‚Â±ol HD
+http://latino-webtv.ml/rvdurlst/13113/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Claro Sports
+http://latino-webtv.ml/rvdurlst/13441/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TDN Mexico
+http://latino-webtv.ml/rvdurlst/1059/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Univision TDN
+http://latino-webtv.ml/rvdurlst/1483/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DXTV
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Golf Channel Latinoamerica
+http://latino-webtv.ml/rvdurlst/1489/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Univision Deportes HD
+http://latino-webtv.ml/rvdurlst/11293/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Trace Sport Stars
+http://lb.iptvserver.tv:8080/redirect/LiveEdge/TraceSportsHD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Disney Channel Norte
+http://latino-webtv.ml/rvdurlst/256/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Disney XD Norte
+http://latino-webtv.ml/rvdurlst/499/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Disney Junior Norte
+http://latino-webtv.ml/rvdurlst/1455/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Nickelodeon Latinoamerica
+http://latino-webtv.ml/rvdurlst/1423/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Nick Jr Latinoamerica
+http://latino-webtv.ml/rvdurlst/10482/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Discovery Kids America Latina
+http://latino-webtv.ml/rvdurlst/309/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Once NiÃƒÆ’Ã‚Â±os
+http://latino-webtv.ml/rvdurlst/13432/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Boomerang Latinoamerica
+http://latino-webtv.ml/rvdurlst/10477/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Cartoon Network Latinoamerica
+http://latino-webtv.ml/rvdurlst/421/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ZooMoo
+http://latino-webtv.ml/rvdurlst/13428/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Baby TV Latinoamerica
+http://latino-webtv.ml/rvdurlst/317/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CBeebies Latinoamerica
+http://latino-webtv.ml/rvdurlst/1029/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal Sony
+http://latino-webtv.ml/rvdurlst/2501/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BBC Entertainment Latinoamerica
+http://lb.iptvserver.tv:8080/redirect/LiveEdge/BBCEntLA/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Unicable
+http://latino-webtv.ml/rvdurlst/3804/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Warner Channel Latinoamerica
+http://latino-webtv.ml/rvdurlst/2499/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", E! Latinoamerica
+http://latino-webtv.ml/rvdurlst/427/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FX Latino
+http://latino-webtv.ml/rvdurlst/431/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Universal Channel America Latina
+http://latino-webtv.ml/rvdurlst/387/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fox Latinoamerica
+http://latino-webtv.ml/rvdurlst/3947/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Syfy Latinoamerica
+http://latino-webtv.ml/rvdurlst/447/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", A&E Latinoamerica
+http://latino-webtv.ml/rvdurlst/258/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Investigation Discovery Latinoamerica
+http://latino-webtv.ml/rvdurlst/455/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TLC Latinoamerica
+http://latino-webtv.ml/rvdurlst/327/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", AXN Latinoamerica
+http://latino-webtv.ml/rvdurlst/2493/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Eurochannel
+http://latino-webtv.ml/rvdurlst/4912/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MundoFox
+http://latino-webtv.ml/rvdurlst/429/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TNT Series Latinoamerica
+http://latino-webtv.ml/rvdurlst/331/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Elgourmet
+http://latino-webtv.ml/rvdurlst/1033/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Casa Club TV
+http://latino-webtv.ml/rvdurlst/1475/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Mas Chic
+http://latino-webtv.ml/rvdurlst/13442/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TBS America Latina
+http://latino-webtv.ml/rvdurlst/333/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Glitz Latinoamerica
+http://latino-webtv.ml/rvdurlst/1473/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FOX Life
+http://latino-webtv.ml/rvdurlst/425/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Distrito Comedia
+http://latino-webtv.ml/rvdurlst/1491/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Comedy Central Latinoamerica
+http://latino-webtv.ml/rvdurlst/1037/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Tru TV America Latina
+http://latino-webtv.ml/rvdurlst/337/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Efekto TV
+http://latino-webtv.ml/rvdurlst/1039/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Multimedios Plus
+http://latino-webtv.ml/rvdurlst/1459/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Lifetime Latinoamerica
+http://latino-webtv.ml/rvdurlst/423/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", WOBI
+http://latino-webtv.ml/rvdurlst/13431/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CNN en EspaÃƒÆ’Ã‚Â±ol
+http://latino-webtv.ml/rvdurlst/1855/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", El Financiero Bloomberg
+http://latino-webtv.ml/rvdurlst/2823/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Excelsior TV
+http://latino-webtv.ml/rvdurlst/13427/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NTN 24
+http://latino-webtv.ml/rvdurlst/1601/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Azteca Noticias
+http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/index_3_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MTV Latinoamerica
+http://latino-webtv.ml/rvdurlst/2491/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MTV Hits Latinoamerica
+http://latino-webtv.ml/rvdurlst/1495/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", VH1 Classic Europe
+http://lb.iptvserver.tv:8080/redirect/LiveEdge/VH1ClassicLASD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", VH1 Latino Norte
+http://latino-webtv.ml/rvdurlst/483/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Claro Musica
+http://lb.iptvserver.tv:8080/redirect/LiveEdge/KMusicLA/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Concert channel
+http://lb.iptvserver.tv:8080/redirect/LiveEdge/ConcertChannelSD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HTV
+http://latino-webtv.ml/rvdurlst/341/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Exa TV
+http://latino-webtv.ml/rvdurlst/13443/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Bandamax
+http://latino-webtv.ml/rvdurlst/1467/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Video Rola
+http://latino-webtv.ml/rvdurlst/13444/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", De Pelicula
+http://latino-webtv.ml/rvdurlst/13429/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", De Pelicula Multiplex
+http://latino-webtv.ml/rvdurlst/13430/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Cinema Dinamita
+http://lb.iptvserver.tv:8080/redirect/LiveEdge/CineDinamitaLA/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MultiPremier
+http://latino-webtv.ml/rvdurlst/3293/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CineLatino
+http://latino-webtv.ml/rvdurlst/477/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Golden
+http://latino-webtv.ml/rvdurlst/264/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Golden Edge
+http://latino-webtv.ml/rvdurlst/1465/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Golden Multiplex
+http://latino-webtv.ml/rvdurlst/1035/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Paramount Channel Latinoamerica
+http://latino-webtv.ml/rvdurlst/260/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sundance Channel Latinoamerica
+http://latino-webtv.ml/rvdurlst/1041/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TNT America Latina
+http://latino-webtv.ml/rvdurlst/9042/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CineCanal
+http://latino-webtv.ml/rvdurlst/2495/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CineCanal Prime
+http://latino-webtv.ml/rvdurlst/13424/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Cinemax Latinoamerica
+http://latino-webtv.ml/rvdurlst/343/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SPACE
+http://latino-webtv.ml/rvdurlst/2489/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", AMC
+http://lb.iptvserver.tv:8080/redirect/LiveEdge/AMCLASD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Studio Universal
+http://latino-webtv.ml/rvdurlst/345/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TCM America Latina
+http://lb.iptvserver.tv:8080/redirect/LiveEdge/TCMSD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", I-Sat
+http://latino-webtv.ml/rvdurlst/1703/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Europa Europa
+http://latino-webtv.ml/rvdurlst/1597/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Film & Arts Latinoamerica
+http://latino-webtv.ml/rvdurlst/1599/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Film Zone
+http://latino-webtv.ml/rvdurlst/1055/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fox 1 Este
+http://latino-webtv.ml/rvdurlst/433/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fox 1 Oeste
+http://latino-webtv.ml/rvdurlst/439/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fox Family
+http://latino-webtv.ml/rvdurlst/467/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fox Comedy
+http://latino-webtv.ml/rvdurlst/461/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fox Cinema
+http://lb.iptvserver.tv:8080/redirect/LiveEdge/FoxCinemaSD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fox Action Este
+http://latino-webtv.ml/rvdurlst/435/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fox Action Oeste
+http://latino-webtv.ml/rvdurlst/437/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fox Movies Latinoamerica
+http://latino-webtv.ml/rvdurlst/463/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fox Classics Latinoamerica
+http://latino-webtv.ml/rvdurlst/465/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HBO Latinoamerica
+http://latino-webtv.ml/rvdurlst/385/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HBO 2 Latinoamerica
+http://latino-webtv.ml/rvdurlst/365/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HBO Plus Este
+http://latino-webtv.ml/rvdurlst/453/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HBO Plus Oeste
+http://latino-webtv.ml/rvdurlst/369/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HBO Family Latinoamerica
+http://latino-webtv.ml/rvdurlst/449/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HBO Signature Latinoamerica
+http://latino-webtv.ml/rvdurlst/451/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Max UP Latinoamerica
+http://latino-webtv.ml/rvdurlst/469/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Max Prime Este
+http://latino-webtv.ml/rvdurlst/377/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Max Prime Oeste
+http://latino-webtv.ml/rvdurlst/379/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MAX
+http://latino-webtv.ml/rvdurlst/381/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Golden Premier 1
+http://latino-webtv.ml/rvdurlst/4777/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Golden Premier 2
+http://latino-webtv.ml/rvdurlst/4772/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Wapa2
+http://latino-webtv.ml/rvdurlst/8471/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Telemundo Puerto Rico
+http://latino-webtv.ml/rvdurlst/8469/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Wapa
+http://latino-webtv.ml/rvdurlst/8476/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Univision Puerto Rico
+http://latino-webtv.ml/rvdurlst/8474/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Mega TV Puerto Rico
+http://latino-webtv.ml/rvdurlst/13508/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ABC Puerto Rico
+http://latino-webtv.ml/rvdurlst/13702/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NBC Puerto Rico
+http://latino-webtv.ml/rvdurlst/13377/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Punto 2
+http://latino-webtv.ml/rvdurlst/8656/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Teleisla Puerto Rico
+http://latino-webtv.ml/rvdurlst/13378/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Univision Los Angeles
+http://latino-webtv.ml/rvdurlst/12163/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Telemundo Los Angeles
+http://latino-webtv.ml/rvdurlst/13681/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", rmtv
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", geoa3series
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", lasexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", geomega
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DEPORTES:Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8#IptvPlay
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡SICA:Heart TV (UK)
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8#IptvPlay
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ENTRETENIMIENTO:Azteca 13 (-30 minutos)
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", VENEZUELA:TeleSUR
+http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8#IptvPlay
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BRASIL:TV Vitoria
+http://tvvitoria.viacast.tv/livepl/tvvitoria_3_original.m3u8#IptvPlay
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ENTRETENIMIENTO:Antena 3 Internacional                       ExabyteTV - exabytetv.info
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ENTRETENIMIENTO:Azteca 13 (-30 minutos)                       ExabyteTV - exabytetv.info
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PELÃCULAS Y SERIES:Atreseries EspaÃ±ol                       ExabyteTV - exabytetv.info
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DEPORTES - SPORTS:DeporTV (DXTV) Argentina                       ExabyteTV - exabytetv.info
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DEPORTES - SPORTS:Pac-12 Washington                       ExabyteTV - exabytetv.info
+http://pac12hd2-lh.akamaihd.net/i/p12wash_delivery@132841/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DEPORTES - SPORTS:Real Madrid TV (EspaÃ±a)                       ExabyteTV - exabytetv.info
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MÃšSICA - MUSIC:Capital TV (UK)                       ExabyteTV - exabytetv.info
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MÃšSICA - MUSIC:City Radio TV                       ExabyteTV - exabytetv.info
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MÃšSICA - MUSIC:Cool HD                       ExabyteTV - exabytetv.info
+http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MÃšSICA - MUSIC:Hard Life                       ExabyteTV - exabytetv.info
+http://stream.hardlife.tv:8134/hls-live/livepkgr/_definst_/liveevent/hl.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MÃšSICA - MUSIC:Heart TV (UK)                       ExabyteTV - exabytetv.info
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MÃšSICA - MUSIC:m2o tv                       ExabyteTV - exabytetv.info
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MÃšSICA - MUSIC:Melody Channel                       ExabyteTV - exabytetv.info
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MÃšSICA - MUSIC:Retro TV                       ExabyteTV - exabytetv.info
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MÃšSICA - MUSIC:Virgin TV                       ExabyteTV - exabytetv.info
+http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NOTICIAS - NEWS:Al Jazeera UK                       ExabyteTV - exabytetv.info
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NOTICIAS - NEWS:Euronews en EspaÃ±ol                       ExabyteTV - exabytetv.info
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NOTICIAS - NEWS:France 24                       ExabyteTV - exabytetv.info
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NOTICIAS - NEWS:Milenio                       ExabyteTV - exabytetv.info
+http://brightcove03-f.akamaihd.net/milenio_centro_512k@101956
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NOTICIAS - NEWS:Russia Today En EspaÃ±ol                       ExabyteTV - exabytetv.info
+http://rt-lh.akamaihd.net/i/ch_02@325606/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NOTICIAS - NEWS:TRT World                       ExabyteTV - exabytetv.info
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MÃ‰XICO (Locales):Canal 10 Chetumal                       ExabyteTV - exabytetv.info
+http://stream2.dynalias.com:1935/live/tvlive1/chunklist_w1211325251.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MÃ‰XICO (Locales):RCG TV Coahuila                       ExabyteTV - exabytetv.info
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MÃ‰XICO (Locales):TVMas Veracruz                       ExabyteTV - exabytetv.info
+http://50.7.98.234:1935/rtv/videortv/playlist.m3u
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MÃ‰XICO (Locales):TV Tlaxcala                       ExabyteTV - exabytetv.info
+http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RELIGIÃ“N:BYU TelevisiÃ³n                       ExabyteTV - exabytetv.info
+http://byuhd2-lh.akamaihd.net/i/byutvglobalhd2_live@103134/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RELIGIÃ“N:BYU TelevisiÃ³n Latino                       ExabyteTV - exabytetv.info
+http://byuhd2-lh.akamaihd.net/i/byutvintspanhd2_live@103133/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RELIGIÃ“N:CBN EspaÃ±ol                       ExabyteTV - exabytetv.info
+http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RELIGIÃ“N:Cielo TV                       ExabyteTV - exabytetv.info
+http://wan-lbf.net:1935/cielotv/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RELIGIÃ“N:Comunion TV                       ExabyteTV - exabytetv.info
+http://50.30.37.36:1935/live/smil:MyStream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RELIGIÃ“N:CTNi                       ExabyteTV - exabytetv.info
+http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RELIGIÃ“N:Enlace                       ExabyteTV - exabytetv.info
+http://acaooyalahd2-lh.akamaihd.net/i/TBN07_delivery@186245/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RELIGIÃ“N:Enlace Juvenil                       ExabyteTV - exabytetv.info
+http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RELIGIÃ“N:Esperanza TV                       ExabyteTV - exabytetv.info
+http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RELIGIÃ“N:Ondaluz Sierra                       ExabyteTV - exabytetv.info
+http://cls.elitehd-audiovisuales.com:80/olsierra/livestream1/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RELIGIÃ“N:Red Avenir                       ExabyteTV - exabytetv.info
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RELIGIÃ“N:RTV                       ExabyteTV - exabytetv.info
+http://178.32.53.254/radiovida/mobile/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ARGENTINA:Canal 4 Jujuy                       ExabyteTV - exabytetv.info
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ARGENTINA:Canal 9 Salta                       ExabyteTV - exabytetv.info
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ARGENTINA:Canal 26                       ExabyteTV - exabytetv.info
+http://200.115.193.177/live/26hd-720/.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ARGENTINA:DeporTV (DXTV)                       ExabyteTV - exabytetv.info
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ARGENTINA:Telemax Arg                       ExabyteTV - exabytetv.info
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ARGENTINA:Telpin                       ExabyteTV - exabytetv.info
+http://201.219.100.30:1935/telpintv/ttv.stream_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ARGENTINA:Telpin HD                       ExabyteTV - exabytetv.info
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", REPÃšBLICA DOMINICANA:GH Televison Canal 10                       ExabyteTV - exabytetv.info
+http://ss6.domint.net:2046/gh_str/tv10/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", REPÃšBLICA DOMINICANA:Telever Canal 12                       ExabyteTV - exabytetv.info
+http://tengomusica.ddns.net:1935/telever/telever.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PERÃš:Monterrico TV                       ExabyteTV - exabytetv.info
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PERÃš:Willax TV                       ExabyteTV - exabytetv.info
+http://movil.mediastream.pe/vv_willax/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ECUADOR:UCSG                       ExabyteTV - exabytetv.info
+http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", VENEZUELA:AnzoÃ¡tegui                       ExabyteTV - exabytetv.info
+http://edge.wms28.lorini.net/anzoateguitv/anzoateguitv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", VENEZUELA:Telearagua                       ExabyteTV - exabytetv.info
+http://stream.telearagua.com/telearagua/telearagua/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", VENEZUELA:TeleSUR 31                       ExabyteTV - exabytetv.info
+http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", VENEZUELA:Telet (Venezuela)                       ExabyteTV - exabytetv.info
+http://stream.telearagua.com/telet/telet/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", VENEZUELA:TVO                       ExabyteTV - exabytetv.info
+http://edge.wms28.lorini.net/tvo/tvo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", VENEZUELA:ValeTV                       ExabyteTV - exabytetv.info
+http://edge.wms28.lorini.net/valetv/valetv/playlist.m3u8
